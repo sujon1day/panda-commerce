@@ -1,0 +1,26 @@
+.carousel-bg-color {
+  background-color: #fceae8;
+}
+.buy-now-carousel-button {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff4b92 100%);
+  color: white;
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+}
+h2 {
+  font-size: 2.5rem;
+}
+.category {
+  width: 100px;
+}
+.card {
+  border: none;
+  box-shadow: 3px 2px 15px 0 #6d6d6d;
+}
+.shoe-text {
+  height: 100px;
+}
+.custom-height {
+  height: 300px;
+}
